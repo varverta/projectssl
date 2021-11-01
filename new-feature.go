@@ -1,4 +1,1 @@
-HEAD
-content
-some content
-squash-dev
+dev1
